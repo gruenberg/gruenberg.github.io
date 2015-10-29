@@ -1,5 +1,5 @@
 = This is my first post
-:hp-tags: HubPress, Blog, Open Source,
+
 
 
 blabla bla balb blab ablla bal bal bal bal bla bla
