@@ -1,6 +1,6 @@
 = This is my first post
 :hp-tags: HubPress, Blog, Open Source,
-:hp-alt-title: My English Title
+
 
 blabla bla balb blab ablla bal bal bal bal bla bla
 
