@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "gruenberg",
-    "repositoryName": "gruenberg.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"gruenberg","repositoryName":"gruenberg.github.io","branch":"master"},"site":{"title":"my stuff","description":"stuff from me","logo":"/images/gruenberg-logo.svg","cover":"cover-image.jpg","url":"https://gruenberg.github.io"},"socialnetwork":{"twitter":"https://twitter.com/bassovrockboy"},"theme":{"name":"Casper","url":"//gruenberg.github.io/themes/Casper"}}
