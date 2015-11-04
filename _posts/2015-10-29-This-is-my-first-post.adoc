@@ -2,19 +2,4 @@
 
 
 
-blabla bla balb blab ablla bal bal bal bal bla bla
-
-
-
-
-
-
-PORKY ACCELERATES
-YOUR ADOBE® INDESIGN® LAYOUT PROCESS
-porky is a JavaScript extension for Adobe® InDesign® and other Adobe® products supporting ExtendScript
-
-Use various data types like SQL databases, XML- and JSON files as a variable source.
-
-Handle recurring tasks by automation – code in JavaScript.
-
-Create entire workflows based on your JavaScript code.
+blablabla.
